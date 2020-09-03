@@ -1,0 +1,2 @@
+alert("one");
+alert("two");
