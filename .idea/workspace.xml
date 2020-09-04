@@ -19,29 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1bb85046-6933-4f66-864f-27e352e1abde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/QueryFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Observers/DocumentObserver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/less/app.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mix.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel-mix-tailwind.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel-mix-tailwind.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/mix-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/assets/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/assets/css/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="1bb85046-6933-4f66-864f-27e352e1abde" name="Default Changelist" comment="eloquent" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,8 +173,16 @@
       <option name="presentableId" value="Default" />
       <updated>1599133234774</updated>
       <workItem from="1599133235961" duration="18945000" />
-      <workItem from="1599217633199" duration="19974000" />
+      <workItem from="1599217633199" duration="20272000" />
     </task>
+    <task id="LOCAL-00001" summary="eloquent">
+      <created>1599243631779</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599243631779</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +199,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="eloquent" />
+    <option name="LAST_COMMIT_MESSAGE" value="eloquent" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="309" y="270" key="EditFileWatcherDialog" timestamp="1599139514533">
       <screen x="0" y="0" width="1280" height="984" />
@@ -222,10 +212,10 @@
       <screen x="0" y="0" width="1280" height="984" />
     </state>
     <state x="437" y="215" key="NewPhpClassDialog/0.0.1280.984@0.0.1280.984" timestamp="1599240315308" />
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1599243595579">
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2" timestamp="1599243638494">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
-    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1599243595579" />
+    <state x="232" y="225" key="Vcs.Push.Dialog.v2/0.0.1280.984@0.0.1280.984" timestamp="1599243638494" />
     <state x="296" y="226" key="run.anything.popup" timestamp="1599243209796">
       <screen x="0" y="0" width="1280" height="984" />
     </state>
