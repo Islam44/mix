@@ -17,11 +17,15 @@
         "browser-sync-webpack-plugin": "^2.0.1",
         "cross-env": "^7.0.2",
         "laravel-mix": "^5.0.1",
+        "laravel-mix-tailwind": "^0.1.0",
+        "less": "^3.12.2",
+        "less-loader": "^7.0.1",
         "lodash": "^4.17.19",
         "postcss-cli": "^7.1.2",
         "resolve-url-loader": "^3.1.0",
         "sass": "^1.15.2",
         "sass-loader": "^8.0.0",
+        "tailwindcss": "^1.7.6",
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
